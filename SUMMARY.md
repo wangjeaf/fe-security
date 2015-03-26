@@ -1,8 +1,8 @@
 # Summary
 
 * [introduction](README.md)
-* [entry-1](entry-1/a.md)
+* [section-1](entry-1/README.md)
    * [sub1](entry-1/a.md)
-* [entry-2](entry-2/b.md)
+* [section-2](entry-2/README.md)
    * [sub2](entry-2/b.md)
 
